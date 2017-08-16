@@ -23,4 +23,4 @@
 
 [[constraint]]
   name = "github.com/tanyfx/pkgd"
-  revision = "ead5fe522bd185bd5ba8e68c63281e81ec9adcc1"
+  version = "2.0.0"
