@@ -6,5 +6,5 @@ import (
 )
 
 func PrintInfo() {
-	fmt.Printf("pkgc branch master:\t%s\n", pkgd.GetInfo())
+	fmt.Printf("pkgc branch forkc:\t%s\n", pkgd.GetInfo())
 }
